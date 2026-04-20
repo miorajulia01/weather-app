@@ -1,12 +1,11 @@
+import Navbar from "./components/Navbar/Navbar"
 
 
 
 const App = () => {
   return(
-    <div className="text-4xl">
-      <h1>meteo</h1>
-      <button className="btn btn-success">error</button>
-      <p>teste merge</p>
+    <div className="">
+      <Navbar/>
     </div>
   )
 }

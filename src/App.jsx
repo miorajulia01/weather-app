@@ -1,4 +1,5 @@
 import Navbar from "./components/Navbar/Navbar"
+import Search from "./components/search/Search"
 
 
 
@@ -6,6 +7,7 @@ const App = () => {
   return(
     <div className="bg-[#03012d] max-h-full w-full">
       <Navbar/>
+      <Search/>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse numquam, accusantium nobis quos fugiat delectus exercitationem dolor quisquam omnis architecto non facilis assumenda, eum sint. Aliquam ipsam voluptate temporibus similique.
       Quasi dolores, ducimus magni enim cupiditate iste ea quaerat dolor totam saepe necessitatibus. Ullam nisi, eveniet et ducimus mollitia accusamus sapiente veritatis! Accusamus aliquam nihil ad, explicabo officiis obcaecati vel?
       Asperiores perspiciatis amet atque dicta repudiandae quaerat assumenda praesentium tenetur sapiente reiciendis vero ipsam repellat culpa unde rem nisi facilis, accusantium consequatur nulla laborum earum, ab odio architecto! Neque, magni.
